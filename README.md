@@ -2,4 +2,4 @@
 
 <img src="Git/Courese_Complection_Certificate/git course complection certificate.jpg" alt="Certificate" width="500" height="600">
 
-<img src="SDLC/Agile Coures Complection" alt="Certificate" width="500" height="600">
+<img src="SDLC/Agile Coures Complection.jpg" alt="Certificate" width="500" height="600">
