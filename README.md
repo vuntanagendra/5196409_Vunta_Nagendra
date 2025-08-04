@@ -8,3 +8,4 @@
 
 <img src="Linux/Basic Commands (Linux) 2.png" alt="Certificate" width="500" height="600">
 <img src="Linux/Filter_Pattern mtching_Flile permission commands.png" alt="Certificate" width="500" height="600">
+<img src="C/Introduction to c course complecton certificate.jpg" alt="Certificate" width="500" height="600">
